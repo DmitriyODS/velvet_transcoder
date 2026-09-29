@@ -1,0 +1,7 @@
+sympy
+numpy
+matplotlib
+PyWavelets
+scikit-image
+pillow
+pooch
